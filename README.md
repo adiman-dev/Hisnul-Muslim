@@ -4,7 +4,7 @@
 SQL dump of Hisnul Muslim with English, Bahasa Melayu & Bahasa Indonesia.
 
 ## About
-Sharing this after heving a hard time finding a complete version of Hisnul Muslim with the above translations in plain text. 
+Sharing this after heving a hard time finding a complete version of Hisnul Muslim with the above translations in plain text with the above translations. Usually everything is in PDF and not developer friendly.
 
 I've compiled this into a SQL format (with a help of a friend) and used it in my Solah App; iman Pro
 - [iman iOS](https://apps.apple.com/my/app/iman-azan-qibla-quran/id507445641)
