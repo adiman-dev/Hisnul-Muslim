@@ -11,8 +11,6 @@ I've compiled this into a SQL format (with a help of a friend) and used it in my
 - [iman Pro iOS](https://apps.apple.com/my/app/iman-pro-azan-qibla-quran/id590004918)
 - [iman Pro Android](https://play.google.com/store/apps/details?id=net.adiman.android.imanPro&hl=en)
 
-Knowing how hard it is to find a polain text version, i also share this here. 
-
 Feel free to use and do a pull request for any required corrections. No license. May it be beneficial InsyaAllah.
 
 ## Credits
