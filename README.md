@@ -23,7 +23,7 @@ Feel free to use and do a pull request for any required corrections. No license.
 - Bahasa Indonesia source: hisnul-muslim-in2.pdf [link](https://dn790000.ca.archive.org/0/items/HisnulMuslimKumpulanDoaDanDzikirShahihDariAlQuranDanAsSunnah_201611/Hisnul%20Muslim%20Kumpulan%20Doa%20dan%20Dzikir%20Shahih%20Dari%20AlQuran%20dan%20AsSunnah.pdf)
 
 # Usage
-To create sqlite database from hisnul-muslim.sql, just run `cat hisnul-muslim.sql | sqlite3 hisnul.db`
+To create sqlite database from hisnul-muslim.sql, just run `cat hisnul-muslim-*.sql | sqlite3 hisnul.db`
 
 ## Disclaimer
 I am not responsible/liable for any damages caused from using this data. Data is provided as is with a community best effort to minimise errors and discrepencies. Any error corrections are welcomed via pull request.
